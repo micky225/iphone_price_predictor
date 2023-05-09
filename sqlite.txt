@@ -1,0 +1,37 @@
+("iphone", 499 , 2, 2007)\
+("iphone 3G ", 499 , 2, 2008)
+("iphone 3GS", 599 , 3, 2009)
+("iphone 4", 649 , 5, 20010)
+("iphone 4S", 649 , 5, 2011)
+("iphone 5", 649 , 6, 2012)
+("iphone 5C", 549 , 7, 2013)
+("iphone 5s", 649 , 7, 2013)
+("iphone 6", 649 , 8, 2014)
+("iphone 6 Plus", 749 , 8, 2014)
+("iphone 6s", 649 , 9, 2015)
+("iphone 6s Plus", 749 , 9, 2015)
+("iphone SE", 399 , 9, 2016)
+("iphone 7", 649 , 10, 2016)
+("iphone 7 Plus", 769 , 10, 2016)
+("iphone 8", 699 , 11, 2017)
+("iphone 8 Plus", 799 , 11, 2017)
+("iphone X", 999 , 11, 2017)
+("iphone XR", 749 , 12, 2018)
+("iphone XS", 999 , 12, 2018)
+("iphone XS Max", 1099 , 12, 2018)
+("iphone 11", 699 , 13, 2019)
+("iphone 11 Pro", 999 , 13, 2019)
+("iphone 11 Pro Max", 1099 , 13, 2019)
+("iphone SE 2nd Gen", 399 , 14, 2020)
+("iphone 12 mini", 999 , 14, 2020)
+("iphone 12", 799 , 14, 2020)
+("iphone 12 Pro", 999 , 14, 2020)
+("iphone 12 Pro Max", 1099 , 14, 2020)\
+("iphone 13 mini", 699 , 15, 2021)\
+("iphone 13", 799 , 15, 2021)\
+("iphone 13 Pro", 999 , 15, 2021)\
+("iphone 13 Pro Max", 1099 , 15, 2021)\
+("iphone 14", 799 , 16, 2022)\
+("iphone 14 Plus", 899 , 16, 2022)\
+("iphone 14 Pro", 999 , 16, 2022)\
+("iphone 14 Pro Max ", 1099 , 16, 2022)
